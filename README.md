@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**hackSumit/hackSumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Full Stack Developer from India.I'm a computer science student who is passionate about building products.<br>
+I am currently working on Angular-Spring Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently Angular-8,Spring-Boot,Java.
+- 🌱 I’m currently working as a freelancer.
+- ⚡  Available for Freelance projects/internship opportunities.
+
+
+### 📫 Reach me at 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sumit-ghosh-4a7663170/)
