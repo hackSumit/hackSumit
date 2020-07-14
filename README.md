@@ -1,10 +1,10 @@
 
 
-I am a Full Stack Developer from India.I'm a computer science student who is passionate about building products.<br>
+I am a Full Stack Developer from India.I'm a Computer Science student who is passionate about building products.<br>
 I am currently working on Angular-Spring Stack
 
 
-- 🔭 I’m currently Angular-8,Spring-Boot,Java.
+- 🔭 I’m currently learning/developing applications in Angular-8,Spring-Boot,Java.
 - 🌱 I’m currently working as a freelancer.
 - ⚡  Available for Freelance projects/internship opportunities.
 
