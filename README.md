@@ -9,6 +9,7 @@ I am currently working on Angular-Spring Stack
 - 🌱 I’m currently working as a freelancer.
 - ⚡  Available for Freelance projects/internship opportunities.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumitgsh&show_icons=true&theme=radical)
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sumit-ghosh-4a7663170/)
