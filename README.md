@@ -14,4 +14,4 @@ I am currently working on Angular-Spring Stack
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sumit-ghosh-4a7663170/)
 
-[![Linkedin](https://rb.gy/frkxhw) LinkedIn](https://www.linkedin.com/in/sumit-ghosh-4a7663170/)
+[![Linkedin](https://rb.gy/w3hgcy) LinkedIn](https://www.linkedin.com/in/sumit-ghosh-4a7663170/)
