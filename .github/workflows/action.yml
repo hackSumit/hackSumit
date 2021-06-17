@@ -17,10 +17,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
         
-            # Enable or disable plugin
+          # Enable or disable plugin
           plugin_introduction: no
+          plugin_introduction_title: no
           plugin_skyline: yes
-          plugin_skyline_year: 0           # Set to 0 to display current year
+          plugin_skyline_year: 2021           # Set to 0 to display current year
           plugin_skyline_frames: 60         # Use 60 frames (half-loop)
           plugin_skyline_quality: 0.5       # Set image quality
           plugin_skyline_compatibility: yes 
