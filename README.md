@@ -1,6 +1,11 @@
 
 ### Hi there!
 
+![Metrics](https://github.com/sumitgsh/sumitgsh/blob/main/github-metrics.svg)
+
+
+
+
 I am a Full Stack Developer from India.I'm a Computer Science student who is passionate about building products.<br>
 I am currently working on Angular-Spring Stack
 
