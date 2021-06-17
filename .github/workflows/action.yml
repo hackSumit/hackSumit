@@ -16,6 +16,8 @@ jobs:
           plugin_skyline_year: 2021            # Set to 0 to display current year
           plugin_skyline_frames: 60         # Use 60 frames (half-loop)
           plugin_skyline_quality: 0.5       # Set image quality
-          plugin_skyline_compatibility: yes # 
+          plugin_skyline_compatibility: yes 
+          plugin_introduction: no
+          plugin_introduction_title: yes # Hide section title
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
