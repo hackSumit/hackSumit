@@ -12,6 +12,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          template: ""
           plugin_skyline: yes
           plugin_skyline_year: 2021            # Set to 0 to display current year
           plugin_skyline_frames: 60         # Use 60 frames (half-loop)
