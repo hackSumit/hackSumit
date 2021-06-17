@@ -1,7 +1,7 @@
 
 ### Hi there!
 
-![Metrics](https://github.com/sumitgsh/sumitgsh/blob/main/github-metrics.svg)
+![Metrics](https://github.com/sumitgsh/sumitgsh/blob/master/github-metrics.svg)
 
 
 
